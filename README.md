@@ -1,4 +1,5 @@
   # 💫 About gwe :
+
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=italian+bold&weight=300&pause=1000&color=6CF7D0&center=true&vCenter=true&multiline=true&random=true&width=435&lines=%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BB%E3%83%AC%E3%82%B6%E3%81%A7%E3%81%99%E3%80%82%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%A7%E3%81%99%E3%80%82%E5%88%9D%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%E3%80%82" alt="Typing SVG" /></a>
 
