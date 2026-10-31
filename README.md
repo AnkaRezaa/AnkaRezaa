@@ -51,12 +51,13 @@ Interests: waguri
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Badge
 <p align="center">
   <img src="https://img.shields.io/github/followers/AnkaRezaa?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AnkaRezaa?label=Total%20Stars&style=for-the-badge&color=f1e05a&logo=star" alt="Stars" />
   <img src="https://img.shields.io/github/commit-activity/y/AnkaRezaa?label=Commits%20This%20Year&style=for-the-badge&color=58a6ff&logo=git" alt="Commits" />
 </p>
+
 
 
 ### ✍️ Random Dev Quote
