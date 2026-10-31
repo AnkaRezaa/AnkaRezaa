@@ -52,7 +52,7 @@ Interests: waguri
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
-[![trophy](https://${PUBLIC_DOMAIN}.zeabur.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnkaRezaa&theme=onedark)](https://github.com/AnkaRezaa/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
