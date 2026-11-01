@@ -102,8 +102,7 @@ Interests : waguri
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnkaRezaa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkaRezaa&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+  <img src="https://ghchart.rshah.org/6CF7D0/AnkaRezaa" alt="Contribution graph" width="90%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnkaRezaa&theme=radical&hide_border=true" alt="Streak" />
