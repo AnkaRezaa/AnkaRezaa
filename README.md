@@ -4,7 +4,7 @@
   <br/><br/>
   <img src="https://i.pinimg.com/originals/b0/30/0b/b0300be2ea632ccf8fb4253bf56983e7.gif" width="800" alt="Kaoruko Waguri GIF">
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AnkaRezaa&label=PROFILE+VIEWS&color=6CF7D0&style=for-the-badge" alt="Profile views" />
+  <a href="https://hits.sh/github.com/AnkaRezaa/"><img src="https://hits.sh/github.com/AnkaRezaa.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6CF7D0&labelColor=0d1117" alt="Profile views" /></a>
   <img src="https://img.shields.io/github/followers/AnkaRezaa?style=for-the-badge&logo=github&color=6CF7D0&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AnkaRezaa?style=for-the-badge&logo=github&color=FF69B4&labelColor=0d1117" alt="Stars" />
 </div>
